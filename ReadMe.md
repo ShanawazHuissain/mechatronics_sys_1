@@ -4,7 +4,7 @@ This repository is dedicated to managing and tracking the progress of lab sessio
 - **Managing group number**: 6
 - **Members**:  
     - Ahmed Khan Mohammed Zia
-    - Shanawaz Hussain
+    - Shanawaz Hussain Mohammed
 
 
 ## Course Overview
